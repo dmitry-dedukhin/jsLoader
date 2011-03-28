@@ -30,7 +30,7 @@ Preload script:
 
     jsLoader.load(['test3']);
 
-See [Wiki][1] for complete example.
+See [Wiki][a1] for complete example.
 
 
 [a1]: https://github.com/dmitry-dedukhin/jsLoader/wiki
